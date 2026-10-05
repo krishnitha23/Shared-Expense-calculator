@@ -10,6 +10,10 @@ person needs to pay when sharing food, rent and electricity expenses.
 - Calculates electricity bill
 - Divides the total expense among people
 
+## How to Run 
+
+- You can run this in Google Collab (Link : https://colab.research.google.com/drive/1g6VQLFlq64DmwLoVBudUAdL3s6LSushh?usp=sharing )
+  
 ## Concepts Used
 
 - Variables
