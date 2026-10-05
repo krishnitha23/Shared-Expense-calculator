@@ -12,7 +12,7 @@ person needs to pay when sharing food, rent and electricity expenses.
 
 ## How to Run 
 
-- You can run this in Google Collab (Link : https://colab.research.google.com/drive/1g6VQLFlq64DmwLoVBudUAdL3s6LSushh?usp=sharing )
+- You can run this in Google Collab (Link : https://colab.research.google.com/drive/18nlC0mOoDYJBrOHqZhJIZPLi3LnO_bIJ?usp=sharing )
   
 ## Concepts Used
 
